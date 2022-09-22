@@ -1,2 +1,1 @@
-# tipCalculator
-Assignment
+
