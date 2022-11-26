@@ -1,5 +1,6 @@
 # Tip_Calculator-in-js
 
+visit - https://surajknikumbh.github.io/tipCalculator/
 As a user, you  to go a restaurant, based on your experience you wants to pay tip to the waiter. a
 
 If the your overall experience is good you pay higher tip amount.
